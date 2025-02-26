@@ -29,3 +29,6 @@ C# (Game logic & scripting)
 This is only a basic Multiplayer Setup created from scratch and this can be used as a base for upcoming games aswell.
 
 ### This is the Link for the game [Trailer Video](https://youtu.be/7zTpOtawFa8?si=Gam0Q0hc-aadZPUn)
+
+## Itch.IO 
+[Click Here to go to my Itch.io Page to view my Games](https://specklez.itch.io/)
