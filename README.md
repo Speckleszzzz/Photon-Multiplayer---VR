@@ -1,7 +1,7 @@
 # 🎮 [Multiplayer setup created from scratch using Photon Pun2 - Unity - VR]
 Multiplayer Korean Traditional Game using Photon PUN 2 & Photon Voice
 
-###📝 Description
+### 📝 Description
 This is a multiplayer setup built in Unity using Photon PUN 2 and Photon Voice. Players can create and join lobbies, interact in rooms, and compete in three traditional Korean games:
 
 Yut Nori 🎲 – A board game using wooden sticks.
